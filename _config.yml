@@ -1,5 +1,5 @@
-title: Smith Dsouza
-#logo:
-#description: 
-show_downloads: True
+title: Smith Bernard Dsouza
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
